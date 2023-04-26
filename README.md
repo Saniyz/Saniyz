@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sani</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A developer</h3>
 
 <p align="left"> <a href="https://twitter.com/saniyzhuh" target="blank"><img src="https://img.shields.io/twitter/follow/saniyzhuh?logo=twitter&style=for-the-badge" alt="saniyzhuh" /></a> </p>
 
